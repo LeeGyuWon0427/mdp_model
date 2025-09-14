@@ -19,3 +19,5 @@ cv2.imshow("results", results2[0].plot())
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#변경 테스트
